@@ -24,7 +24,7 @@
         "test": "echo \"Error: run tests from root\" && exit 1"
     },
     "dependencies": {
-        "@wujy/utils": "^1.0.2"
+        "@wujy/utils": "^1.0.0"
     },
     "gitHead": "3b4cfc8151f94b4a18db8e6833ec1a45f61f58e6"
 }
