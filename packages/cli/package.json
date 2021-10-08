@@ -1,6 +1,6 @@
 {
     "name": "@wujy/cli",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "core-cli",
     "author": "吴俊胤 <33750626+ErrorJe@users.noreply.github.com>",
     "homepage": "",
@@ -24,7 +24,7 @@
         "test": "echo \"Error: run tests from root\" && exit 1"
     },
     "dependencies": {
-        "@wujy/utils": "^1.0.9"
+        "@wujy/utils": "^1.0.10"
     },
     "gitHead": "67fc4f42772d417c4d15f57f03a494fdc485fc89"
 }
