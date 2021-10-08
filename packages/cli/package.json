@@ -17,7 +17,7 @@
         "lib"
     ],
     "publishConfig": {
-        "registry": "https://registry.npm.taobao.org/",
+        "registry": "https://registry.npm.org/",
         "access": "public"
     },
     "scripts": {
@@ -26,5 +26,5 @@
     "dependencies": {
         "@wujy/utils": "^1.0.7"
     },
-    "gitHead": "f9528e65fe1e708e97f11b9f072cc6599c67ceea"
+    "gitHead": "037c49faa0c6cfae4dd77db84f35f1cc65939557"
 }
