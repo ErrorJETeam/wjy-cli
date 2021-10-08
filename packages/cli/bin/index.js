@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log("@wujy/cli/bin6");
+console.log("@wujy/cli/bin7");
