@@ -14,11 +14,11 @@
         "lib"
     ],
     "publishConfig": {
-        "registry": "https://registry.npm.org/",
+        "registry": "https://registry.npmjs.org/",
         "access": "public"
     },
     "scripts": {
         "test": "echo \"Error: run tests from root\" && exit 1"
     },
-    "gitHead": "4c3b0e97d71063e9532785d115a47848f9773edd"
+    "gitHead": "67fc4f42772d417c4d15f57f03a494fdc485fc89"
 }
